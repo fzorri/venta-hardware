@@ -1,0 +1,9 @@
+root body {
+    --sidebar-width-right: min(10em, 40vw); */
+    --sidebar-width-left: min(10em, 40vw); */
+}
+
+
+body {
+  --file-line-width:1000px
+}
